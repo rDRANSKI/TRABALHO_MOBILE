@@ -1,5 +1,6 @@
 # PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS
-## trabalho de PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS 1° bimestre
+>[!note] Acadêmico
+Aqui estará toda a descrição de todas as atividades avaliativas 
 ---
 # Trabalho 1 - Configuração do Ambiente e Hello World em Dart
 
