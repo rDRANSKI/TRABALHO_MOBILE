@@ -1,6 +1,6 @@
 # PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS
 >[!note] Acadêmico
-Aqui estará toda a descrição de todas as atividades avaliativas 
+>Aqui estará toda a descrição de todas as atividades avaliativas 
 ---
 # Trabalho 1 - Configuração do Ambiente e Hello World em Dart
 
