@@ -1,7 +1,7 @@
 /// Trabalho 1 - Programação para Dispositivos Móveis
-/// Aluno: [Seu Nome Completo Aqui]
+/// Aluno: Ronaldo Dranski Ra.: 24235222-2
 
 void main() {
-  // A função print exibe a mensagem no terminal
+
   print('Hello World');
 }
