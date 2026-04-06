@@ -1,4 +1,4 @@
-# Código do README.md Unificado das 4 Atividades
+# README Unificado das 4 Atividades
 
 ````markdown
 # Atividades de Programação para Dispositivos Móveis
