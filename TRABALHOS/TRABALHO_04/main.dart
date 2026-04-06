@@ -1,5 +1,5 @@
-//academico: Ronaldo Dranski
-//ADSISS5S
+/// Trabalho 4 - Programação para Dispositivos Móveis
+/// Aluno: Ronaldo Dranski Ra.: 24235222-2
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

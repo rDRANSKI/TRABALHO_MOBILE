@@ -1,6 +1,5 @@
-//academico: Ronaldo Dranski
-//ADSIS5S
-
+/// Trabalho 3 - Programação para Dispositivos Móveis
+/// Aluno: Ronaldo Dranski Ra.: 24235222-2
 import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(home: Calculadora()));

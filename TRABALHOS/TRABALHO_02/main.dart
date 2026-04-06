@@ -1,5 +1,5 @@
-//academico: Ronaldo Dranski
-//ADSIS5S
+/// Trabalho 2 - Programação para Dispositivos Móveis
+/// Aluno: Ronaldo Dranski Ra.: 24235222-2
 
 import 'dart:io';
 
